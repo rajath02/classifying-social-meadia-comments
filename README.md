@@ -1,4 +1,4 @@
-# classifying-social-meadia-comments
+# classifying-social-media-comments
 
 The demand to reach and satisfy audiences worldwide also
 continues to increase as influencers and content creators use
